@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 ## Graph
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
