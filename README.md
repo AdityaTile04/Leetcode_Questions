@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
