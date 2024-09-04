@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
 ## Greedy
 |  |
 | ------- |
