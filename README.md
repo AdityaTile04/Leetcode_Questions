@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [3379-score-of-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
