@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
+| [2812-find-the-maximum-achievable-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
 |  |
