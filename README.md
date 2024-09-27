@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
 ## Greedy
 |  |
