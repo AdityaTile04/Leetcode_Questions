@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 ## Trie
 |  |
 | ------- |
