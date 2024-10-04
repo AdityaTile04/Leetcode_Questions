@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
