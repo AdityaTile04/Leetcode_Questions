@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
