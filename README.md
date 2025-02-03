@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
