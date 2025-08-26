@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
