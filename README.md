@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
