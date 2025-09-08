@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
