@@ -4,9 +4,11 @@ class Solution {
         int currSum = 0;
 
         for(int i = 0; i < nums.length; i++) {
-            currSum += nums[i];
+            currSum = currSum + nums[i];
             maxSum = Math.max(currSum, maxSum);
-            if(currSum < 0) currSum = 0;
+            if(currSum < 0) {
+                currSum = 0;
+            }
         }
         return maxSum;
     }
