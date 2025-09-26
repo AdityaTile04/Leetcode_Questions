@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0056-merge-intervals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0125-valid-palindrome) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 ## Divide and Conquer
 |  |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
