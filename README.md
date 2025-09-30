@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
