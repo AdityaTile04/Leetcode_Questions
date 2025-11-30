@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1078-remove-outermost-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1768-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
