@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0605-can-place-flowers) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
