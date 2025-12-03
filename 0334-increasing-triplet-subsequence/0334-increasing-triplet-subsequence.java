@@ -1,6 +1,5 @@
 class Solution {
     public boolean increasingTriplet(int[] nums) {
-        int n = nums.length;
 
         int left = Integer.MAX_VALUE;
         int mid = Integer.MAX_VALUE;
@@ -14,7 +13,8 @@ class Solution {
                 return true;
             }
         }
-        
+
         return false;
+
     }
 }
