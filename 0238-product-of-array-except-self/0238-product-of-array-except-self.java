@@ -5,7 +5,7 @@ class Solution {
         int productOfAllAfterCurrent = 1;
         int productOfAllBeforeCurrent = 1;
 
-        for(int i = 0 ; i < n; i++) {
+        for(int i = 0; i < n; i++) {
             res[i] = productOfAllBeforeCurrent;
             productOfAllBeforeCurrent *= nums[i];
         }
@@ -14,6 +14,7 @@ class Solution {
             res[i] *= productOfAllAfterCurrent;
             productOfAllAfterCurrent *= nums[i];
         }
+        
         return res;
     }
 }
