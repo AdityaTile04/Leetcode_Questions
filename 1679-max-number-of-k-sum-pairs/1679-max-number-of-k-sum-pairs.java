@@ -1,7 +1,7 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        int count = 0;
         Arrays.sort(nums);
+        int count = 0;
 
         int start = 0;
         int end = nums.length - 1;
