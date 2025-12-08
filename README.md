@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
