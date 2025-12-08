@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -259,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
