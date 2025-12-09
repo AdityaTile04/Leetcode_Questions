@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1732-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
 |  |
