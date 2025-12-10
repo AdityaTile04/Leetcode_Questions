@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
