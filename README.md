@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
+| [2352-equal-row-and-column-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
