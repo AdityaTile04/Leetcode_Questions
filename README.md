@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2390-removing-stars-from-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
