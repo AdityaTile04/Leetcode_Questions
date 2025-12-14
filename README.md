@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
