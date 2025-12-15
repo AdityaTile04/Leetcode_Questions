@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0933-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -409,4 +410,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
