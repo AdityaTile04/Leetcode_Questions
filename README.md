@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0394-decode-string) |
 ## Queue
 |  |
