@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0792-binary-search) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
