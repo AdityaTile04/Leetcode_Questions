@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0334-increasing-triplet-subsequence) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0567-permutation-in-string) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2155-find-missing-observations) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
