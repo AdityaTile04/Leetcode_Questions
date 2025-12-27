@@ -1,14 +1,23 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int res = 0;
-        int curr = 0;
-        Map<Integer,Integer> map = new HashMap<>();
-        map.put(0, 1);
-        for(int i : nums) {
-            curr += i;
-            res += map.getOrDefault(curr - k, 0);
-            map.put(curr, map.getOrDefault(curr, 0) + 1);
-        }
-        return res;
+        int n = nums.length;
+        int right = 0, left = 0;
+        int sum = nums[0];
+        int maxLen = 0;
+
+        while(right < n) {
+            while(left <= right && sum > k) {
+                sum -= nums[left];
+                left++;
+            }
+            if(sum == k) {
+                maxLen = Math.max(maxLen, right - left + 1);
+            }
+            right++;
+            if(right < n) {
+                sum += nums[right];
+            }
+        } 
+        return maxLen;
     }
 }
