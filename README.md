@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -338,12 +339,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
