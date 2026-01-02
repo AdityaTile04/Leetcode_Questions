@@ -1,33 +1,40 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int i = nums.length - 2;
+        int index = -1;
 
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
+        for(int i = nums.length - 2; i >= 0; i--) {
+            if(nums[i] < nums[i + 1]) {
+                index = i;
+                break;
+            }
         }
-        if (i >= 0) {
-            int j = nums.length - 1;
 
-            while (nums[j] <= nums[i])
-                j--;
-            swap(nums, i, j);
+        if(index == -1) {
+            reverse(nums, 0, nums.length - 1);
+            return;
         }
-        reverse(nums, i + 1);
-    }
 
-    public void swap(int nums[], int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        for(int i = nums.length - 1; i > index; i--) {
+            if(nums[i] > nums[index]) {
+                swap(nums, i, index);
+                break;
+            }
+        }
+        reverse(nums, index + 1, nums.length - 1);
     }
-
-    public void reverse(int nums[], int start) {
-        int end = nums.length - 1;
+    public void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+    public void reverse(int[] arr, int start, int end) {
         while(start < end) {
-            swap(nums, start, end);
+            int temp = arr[start];
+            arr[start] = arr[end];
+            arr[end] = temp;
+
             start++;
             end--;
         }
-
     }
 }
