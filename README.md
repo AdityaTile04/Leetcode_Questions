@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/2035-count-sub-islands) |
 ## Matrix
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaTile04/Leetcode_Questions/tree/master/0229-majority-element-ii) |
